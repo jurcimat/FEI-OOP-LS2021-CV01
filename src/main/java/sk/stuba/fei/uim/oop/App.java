@@ -59,8 +59,10 @@ public class App {
             b++;
             System.out.println("fake for b = " + b);
         } while (b < 6);*/
+        //System.out.println("5 + 7 je" + scitaj(5,7));
 
-
-        //static int scitaj(int a )
     }
+    /*public static int scitaj(int a, int b){
+        return a + b;
+    }*/
 }
